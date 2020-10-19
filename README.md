@@ -19,7 +19,7 @@ Programmer (noun): Someone who solves a problem you didn't know you had, in a wa
 👯    &nbsp; I’m interested in keeping up-to-date with latest technological developments.<br />
 🤔    &nbsp; I love to take an adventure on new techs. <3<br />
 ⚡️    &nbsp; I’m ready to take up new technical challenges.<br />
-⛳   &nbsp;  I write code in C++/Python/JS/Java and do practice on Hackerrank &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[https://www.hackerrank.com/ashutoshm1771](https://www.hackerrank.com/ashutoshm1771)<br />
+⛳   &nbsp;  I write code in C++/Python/JS/Java and practice in Hackerrank &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[https://www.hackerrank.com/ashutoshm1771](https://www.hackerrank.com/ashutoshm1771)<br />
 👀    &nbsp; You can find me on linkedin [https://www.linkedin.com/in/ashutoshm1771/](https://www.linkedin.com/in/ashutoshm1771/)<br />
 📫    &nbsp; How to reach me: ashutoshm1771@gmail.com<br />
 🌏    &nbsp; Please Visit my Portfolio for more details -> [http://www.ashutoshmishra.com.np](http://www.ashutoshmishra.com.np)<br/>
