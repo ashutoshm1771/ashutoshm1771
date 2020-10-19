@@ -5,7 +5,7 @@ I'm Ashutosh, a student/Programmer :). Apart from Competitive Programming, I als
 ```
 Programmer (noun): Someone who solves a problem you didn't know you had, in a way you don't understand. 😉
 ```
-![Ashutosh's github stats](https://github-readme-stats.vercel.app/api?username=ashutoshm1771&show_icons=true&theme=radical)
+![Ashutosh's github stats](https://github-readme-stats.vercel.app/api?username=ashutoshm1771&show_icons=true&theme=onedark)
   <img align="right" src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" width="300" height="300"/>
 </p>
 
@@ -44,4 +44,5 @@ Programmer (noun): Someone who solves a problem you didn't know you had, in a wa
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashutoshm1771&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Ashutosh's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
 
