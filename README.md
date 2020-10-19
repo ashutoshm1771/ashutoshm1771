@@ -1,7 +1,11 @@
 ### Hey! there 👋
 
 I'm Ashutosh, a student/Programmer :). Apart from Competitive Programming, I also love mythology, Web Development, Artificial Intelligence, and few other generic domains. I am currently a B.Tech student in India, all the way from Nepal. 
-
+![GitHub followers](https://img.shields.io/github/followers/ashutoshm1771?label=Follow&style=social) ![Profile views](https://gpvc.arturio.dev/ashutoshm1771) 
+[![Years Badge](https://badges.pufler.dev/years/ashutoshm1771)](https://badges.pufler.dev/years/ashutoshm1771)
+[![Repos Badge](https://badges.pufler.dev/repos/ashutoshm1771)](https://badges.pufler.dev/repos/ashutoshm1771)
+[![Updated Badge](https://badges.pufler.dev/updated/ashutoshm1771/ashutoshm1771)](https://badges.pufler.dev/updated/ashutoshm1771)
+[![Commits Badge](https://badges.pufler.dev/commits/monthly/ashutoshm1771)](https://badges.pufler.dev/commits/monthly/ashutoshm1771)
 ```
 Programmer (noun): Someone who solves a problem you didn't know you had, in a way you don't understand. 😉
 ```
