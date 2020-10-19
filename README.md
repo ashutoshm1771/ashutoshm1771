@@ -44,5 +44,5 @@ Programmer (noun): Someone who solves a problem you didn't know you had, in a wa
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashutoshm1771&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Ashutosh's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+[![Ashutosh's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ashutoshm1771)](https://github.com/anuraghazra/github-readme-stats)
 
