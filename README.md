@@ -1,3 +1,4 @@
+<body bgcolor=#000000>
 ### Hey! there 👋
 
 I'm Ashutosh, a student/Programmer :). Apart from Competitive Programming, I also love mythology, Web Development, Artificial Intelligence, and few other generic domains. I am currently a B.Tech student in India, all the way from Nepal. 
@@ -46,3 +47,4 @@ Programmer (noun): Someone who solves a problem you didn't know you had, in a wa
 
 [![Ashutosh's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ashutoshm1771)](https://github.com/anuraghazra/github-readme-stats)
 
+</body>
