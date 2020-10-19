@@ -1,6 +1,6 @@
 ### Hey! there 👋
 
-I'm Ashutosh, a student/Programmer :). Apart from Competitive Programming, I also love mythology, Web Development, Artificial Intelligence, and few other generic domains. I am currently a B.Tech student in India, all the way from Nepal. 
+I'm Ashutosh, a student/Programmer :). Apart from Competitive Programming, I also love mythology, Web Development, Artificial Intelligence, and few other generic domains. I am currently a B.Tech student in India, all the way from Nepal. <br>
 ![GitHub followers](https://img.shields.io/github/followers/ashutoshm1771?label=Follow&style=social) ![Profile views](https://gpvc.arturio.dev/ashutoshm1771) 
 [![Years Badge](https://badges.pufler.dev/years/ashutoshm1771)](https://badges.pufler.dev/years/ashutoshm1771)
 [![Repos Badge](https://badges.pufler.dev/repos/ashutoshm1771)](https://badges.pufler.dev/repos/ashutoshm1771)
