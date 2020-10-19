@@ -1,4 +1,3 @@
-<body bgcolor=#000000>
 ### Hey! there 👋
 
 I'm Ashutosh, a student/Programmer :). Apart from Competitive Programming, I also love mythology, Web Development, Artificial Intelligence, and few other generic domains. I am currently a B.Tech student in India, all the way from Nepal. 
@@ -42,9 +41,3 @@ Programmer (noun): Someone who solves a problem you didn't know you had, in a wa
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/aeb3c6037ff10d02e76bffb837b78817b0993a6c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f416d617a6f6e2532304157532d3233324633453f7374796c653d666c61742d737175617265266c6f676f3d616d617a6f6e2d617773"><img src="https://camo.githubusercontent.com/aeb3c6037ff10d02e76bffb837b78817b0993a6c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f416d617a6f6e2532304157532d3233324633453f7374796c653d666c61742d737175617265266c6f676f3d616d617a6f6e2d617773" alt="Amazon AWS" data-canonical-src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&amp;logo=amazon-aws" style="max-width:100%;"></a> -->
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/3f5a17ab56610b19378b1c3fcc589c330e4c7bec/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744875622d3138313731373f7374796c653d666c61742d737175617265266c6f676f3d676974687562"><img src="https://camo.githubusercontent.com/3f5a17ab56610b19378b1c3fcc589c330e4c7bec/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744875622d3138313731373f7374796c653d666c61742d737175617265266c6f676f3d676974687562" alt="GitHub" data-canonical-src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&amp;logo=github" style="max-width:100%;"></a>
 </div>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashutoshm1771&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Ashutosh's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ashutoshm1771)](https://github.com/anuraghazra/github-readme-stats)
-
-</body>
