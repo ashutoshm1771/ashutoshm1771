@@ -15,7 +15,7 @@ Programmer (noun): Someone who solves a problem you didn't know you had, in a wa
 
 💻    &nbsp; Full Stack Developer.<br />
 ✍🏻   &nbsp;  Decent competitive programming, DSA, Algo skills.<br />
-🔭   &nbsp;  Currently exploring React.<br />
+🔭   &nbsp;  Currently exploring React, Angular and Flutter.<br />
 👯    &nbsp; I’m interested in keeping up-to-date with latest technological developments.<br />
 🤔    &nbsp; I love to take an adventure on new techs. <3<br />
 ⚡️    &nbsp; I’m ready to take up new technical challenges.<br />
