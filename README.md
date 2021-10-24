@@ -1,4 +1,4 @@
-### Hey! there 👋
+### Hey! thereeee 👋
 
 I'm Ashutosh, a student/Programmer :). Apart from Competitive Programming, I also love mythology, Web Development, Artificial Intelligence, and few other generic domains. I am currently a B.Tech student in India, all the way from Nepal. <br>
 ![GitHub followers](https://img.shields.io/github/followers/ashutoshm1771?label=Follow&style=social) ![Profile views](https://gpvc.arturio.dev/ashutoshm1771) 
