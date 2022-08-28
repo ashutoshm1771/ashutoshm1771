@@ -1,6 +1,6 @@
-### Hey! thereeee 👋
+### Hey! there. 👋
 
-I'm Ashutosh, a student/Programmer :). Apart from Competitive Programming, I also love mythology, Web Development, Artificial Intelligence, and few other generic domains. I am currently a B.Tech student in India, all the way from Nepal. <br>
+I'm Ashutosh Mishra, an MS Computer Science student in Texas, USA, all the way from Nepal. <br>
 ![GitHub followers](https://img.shields.io/github/followers/ashutoshm1771?label=Follow&style=social) ![Profile views](https://gpvc.arturio.dev/ashutoshm1771) 
 [![Years Badge](https://badges.pufler.dev/years/ashutoshm1771)](https://badges.pufler.dev/years/ashutoshm1771)
 [![Repos Badge](https://badges.pufler.dev/repos/ashutoshm1771)](https://badges.pufler.dev/repos/ashutoshm1771)
@@ -15,11 +15,11 @@ Programmer (noun): Someone who solves a problem you didn't know you had, in a wa
 
 💻    &nbsp; Full Stack Developer.<br />
 ✍🏻   &nbsp;  Decent competitive programming, DSA, Algo skills.<br />
-🔭   &nbsp;  Currently pursuing MS in CS<br />
-👯    &nbsp; I’m interested in keeping up-to-date with latest technological developments.<br />
+🔭   &nbsp;  Currently pursuing MS in CS.<br />
+👯    &nbsp; 
 🤔    &nbsp; I love to take an adventure on new techs. <3<br />
 ⚡️    &nbsp; I’m ready to take up new technical challenges.<br />
-⛳   &nbsp;  I write code in C++/Python/JS/Java and practice in Hackerrank &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[https://www.hackerrank.com/ashutoshm1771](https://www.hackerrank.com/ashutoshm1771)<br />
+⛳   &nbsp;  I usually write code in C++ & C#.
 👀    &nbsp; You can find me on linkedin [https://www.linkedin.com/in/ashutoshm1771/](https://www.linkedin.com/in/ashutoshm1771/)<br />
 📫    &nbsp; How to reach me: ashutoshm1771@gmail.com<br />
 🌏    &nbsp; Please Visit my Portfolio for more details -> [http://www.ashutoshmishra.com.np](http://www.ashutoshmishra.com.np)<br/>
