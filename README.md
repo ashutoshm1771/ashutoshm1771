@@ -16,14 +16,13 @@ Programmer (noun): Someone who solves a problem you didn't know you had, in a wa
 💻    &nbsp; Full Stack Developer.<br />
 ✍🏻   &nbsp;  Decent competitive programming, DSA, Algo skills.<br />
 🔭   &nbsp;  Currently pursuing MS in CS.<br />
-👯    &nbsp; 
 🤔    &nbsp; I love to take an adventure on new techs. <3<br />
 ⚡️    &nbsp; I’m ready to take up new technical challenges.<br />
-⛳   &nbsp;  I usually write code in C++ & C#.
+⛳   &nbsp;  I usually write code in C++ & C#.<br />
 👀    &nbsp; You can find me on linkedin [https://www.linkedin.com/in/ashutoshm1771/](https://www.linkedin.com/in/ashutoshm1771/)<br />
 📫    &nbsp; How to reach me: ashutoshm1771@gmail.com<br />
 🌏    &nbsp; Please Visit my Portfolio for more details -> [http://www.ashutoshmishra.com.np](http://www.ashutoshmishra.com.np)<br/>
-🌏    &nbsp; Please Visit my React - Portfolio -> [https://ashutosh-mishra.web.app/](https://ashutosh-mishra.web.app/)<br/>
+👯    &nbsp; Please Visit my React - Portfolio -> [https://ashutosh-mishra.web.app/](https://ashutosh-mishra.web.app/)<br/>
 
 
 ---------------------------
