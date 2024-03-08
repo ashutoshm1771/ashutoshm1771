@@ -18,7 +18,7 @@ Programmer (noun): Someone who solves a problem you didn't know you had, in a wa
 🔭   &nbsp;  Currently pursuing MS in CS.<br />
 🤔    &nbsp; I love to take an adventure on new techs. <3<br />
 ⚡️    &nbsp; I’m ready to take up new technical challenges.<br />
-⛳   &nbsp;  I usually write code in C++ & C#.<br />
+⛳   &nbsp;  I usually write code in C#, C/C++, Python, JavaScript, Angular, TypeScript, ASP.NET, SQL.<br />
 <!--👀    &nbsp; You can find me on linkedin [https://www.linkedin.com/in/ashutoshm1771/](https://www.linkedin.com/in/ashutoshm1771/)<br />
 📫    &nbsp; How to reach me: ashutoshm1771@gmail.com<br />
 🌏    &nbsp; Please Visit my Portfolio for more details -> [http://www.ashutoshmishra.com.np](http://www.ashutoshmishra.com.np)<br/>
