@@ -13,8 +13,13 @@
 
 ---
 
-**[SDE](https://ashutoshmishra.com.np/#experience) @ Amazon, Seattle, WA**
-**[Master of Science](https://ashutoshmishra.com.np/#education) - CS @ Texas A&M-CC**
+<div align="center">
+  
+  **[SDE](https://ashutoshmishra.com.np/#experience) @ Amazon, Seattle, WA**
+  
+  **[Master of Science](https://ashutoshmishra.com.np/#education) - CS @ Texas A&M-CC**
+
+</div>
 
 ---
 
