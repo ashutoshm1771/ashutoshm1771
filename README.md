@@ -17,7 +17,7 @@
   
   **[SDE](https://ashutoshmishra.com.np/#experience) @ Amazon, Seattle, WA**
   
-  **[Master of Science](https://ashutoshmishra.com.np/#education) - CS @ Texas A&M-CC**
+  **[Master of Science](https://ashutoshmishra.com.np/#education) - CS @ Texas A&M-CC, Aug 2024**
 
 </div>
 
