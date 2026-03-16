@@ -27,8 +27,9 @@
 
 <div align="center">
 
-[![Eigenvue](https://img.shields.io/badge/eigenvue-eigenvue-58a6ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/eigenvue/eigenvue)&nbsp;
+[![Torvyn](https://img.shields.io/badge/torvyn-torvyn-58a6ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/torvyn/torvyn)&nbsp;
 [![Quantum Encoding Atlas](https://img.shields.io/badge/encoding--atlas-quantum--encoding--atlas-58a6ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/encoding-atlas/quantum-encoding-atlas)&nbsp;
+[![Eigenvue](https://img.shields.io/badge/eigenvue-eigenvue-58a6ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/eigenvue/eigenvue)&nbsp;
 [![Renderscope](https://img.shields.io/badge/renderscope--dev-renderscope-58a6ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/renderscope-dev/renderscope)
 
 </div>
